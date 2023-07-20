@@ -1,0 +1,53 @@
+.logo{
+    max-width:350px;
+    
+}
+h1{
+    font-size: 60pt;
+    
+}
+h2{
+    font-size: 25pt;
+    
+}
+p{
+    font-size: 22pt;
+    max-width: 500px;
+}
+
+h1,
+h2,
+p {
+    color: white;
+}
+.visit_now{
+    font-size: 20pt;
+    background-color: #daac00;
+    padding: 25px;
+    max-width: 200px;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.container{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 5%;
+    
+}
+.Dog_photo{
+    position: absolute;
+    max-width: 350px;
+    top: 20%;
+    right: 20%;
+    
+}
+
+.dog-background{
+    position: relative;
+    max-width: 800px;
+}
+.left_side{
+    display: grid;
+}
